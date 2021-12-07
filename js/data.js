@@ -13,7 +13,7 @@ const data = {
       `i like kids - joe`,
       `joe`,
       `my life be like😔`,
-      `i'll move to america then i'll sue you - chris pratt`
+      `i'll move to america then i'll sue you - chris pratt`,
       `your acting a bit sussy jonathan`,
       `Lets get hypixel youtube rank guys! 1/30000`,
       `is that a jojo reference?`,
